@@ -11,7 +11,7 @@
  
  # After instalations start with project
  ### clone project
- * 
+ * https://github.com/PyCMaputo/pycmpt-plataform-front.git
  ### Config project
  * npm install
  
